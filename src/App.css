@@ -1,0 +1,12 @@
+.name{
+  width: auto;
+  padding: center;
+  font-weight: 200;
+  align-items: center;
+}
+.input-form{
+  align-items: center;
+  padding-left: 400px;
+  padding-top: 400px;
+  padding-bottom: 400px;
+}
